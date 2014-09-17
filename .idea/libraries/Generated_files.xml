@@ -12,9 +12,9 @@
       <root url="file://$PROJECT_DIR$/test.js" />
       <root url="file://$PROJECT_DIR$/content.js" />
       <root url="file://$PROJECT_DIR$/test.js" />
-      <root url="file://$PROJECT_DIR$/makestuff.js" />
+      <root url="file://$PROJECT_DIR$/src/makestuff.js" />
       <root url="file://$PROJECT_DIR$/content.js" />
-      <root url="file://$PROJECT_DIR$/background.js" />
+      <root url="file://$PROJECT_DIR$/src/background.js" />
     </CLASSES>
     <SOURCES />
   </library>
