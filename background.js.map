@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "background.js",
+  "sourceRoot": "",
+  "sources": [
+    "background.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,cAAA;;AAAA,EAAA,cAAA,GAAiB,SAAC,UAAD,GAAA;WAAgB,MAAM,CAAC,IAAI,CAAC,aAAZ,CAA0B,IAA1B,EAAgC;AAAA,MAAA,IAAA,EAAM,cAAN;KAAhC,EAAhB;EAAA,CAAjB,CAAA;;AAAA,EAEA,MAAM,CAAC,aAAa,CAAC,SAAS,CAAC,WAA/B,CAA2C,SAAC,GAAD,GAAA;WAEzC,cAAA,CAAe,QAAQ,CAAC,IAAxB,EAFyC;EAAA,CAA3C,CAFA,CAAA;AAAA"
+}

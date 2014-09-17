@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Betterlook",
+    "description": "The future of web design.",
+    "version": "1.0",
+    "icons": {
+        "256": "icon.png",
+        "24": "icon32.png"
+    },
+
+    "background": {
+        "persistent": false,
+        "scripts": ["background.js"]
+    },
+    "browser_action": {
+        "default_icon": "icon32.png",
+        "name": "Click to make this page better"
+    },
+
+    "permissions": ["activeTab", "http://carrymove.com/*"]
+
+}
